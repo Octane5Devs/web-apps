@@ -883,7 +883,7 @@ define([
         textFrom:           'From',
         textTo:             'To',
         textDownload:       'Download',
-        textPortal:         'Save',
+        textPortal:         'Lock',
         errorMailMergeSaveFile: 'Merge failed.',
         downloadMergeTitle: 'Merging',
         requestMailsTitle:  'Requesting e-mails',
